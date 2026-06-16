@@ -1,0 +1,4 @@
+This file was overwritten using write mode.
+new line added using append mode
+pranitha is learingpython with AI-MLnew line added using append mode
+pranitha is learing python with AI-ML
